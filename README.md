@@ -34,8 +34,9 @@ A Python script to clone the [Akamai Compute Marketplace apps repository](https:
 
 ## Usage
 
-python3 check_marketplace_requirements.py -h
+
 ```
+python3 check_marketplace_requirements.py -h
 usage: check_marketplace_requirements.py [-h] [-a APP] [-g]
 
 📦 Check or generate pinned Python package versions for Marketplace app requirements.
